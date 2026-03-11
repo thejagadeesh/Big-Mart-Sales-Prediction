@@ -51,3 +51,12 @@ Machine learning models can then be trained using the preprocessed data. Common 
 The model's performance is evaluated using appropriate metrics, and adjustments can be made to improve accuracy.
 
 Feel free to explore the Jupyter Notebook for a step-by-step walkthrough of the project. You can run each code cell to understand the analysis and reproduce the results.
+
+
+<h3 align="center">Explore My Work</h3>
+
+<p align="center">
+<a href="https://sites.google.com/view/jagadeeshr">
+<img src="https://img.shields.io/badge/View%20My%20Portfolio-0041A5?style=for-the-badge&logo=google-earth&logoColor=white"/>
+</a>
+</p>
